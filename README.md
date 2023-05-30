@@ -28,3 +28,4 @@
   <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=Visual Studio Code&logoColor=white"></a>
 </div>
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjinyongjang&count_bg=%23B0F7FF&title_bg=%23FFBDE5&icon=&icon_color=%23DCC9FF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
